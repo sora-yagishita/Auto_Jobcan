@@ -1,0 +1,29 @@
+{
+    "manager": {
+        "login_page": {
+            "login_id": {
+                "by": "name",
+                "element": "login_id",
+                "action": {
+                    "type": "key",
+                    "send_text": "w2s"
+                }
+            },
+            "pass": {
+                "by": "name",
+                "element": "password",
+                "action": {
+                    "type": "key",
+                    "send_text": "095mashpw"
+                }
+            },
+            "login_btn": {
+                "by": "xpath",
+                "element": "/html/body/div/div[2]/form/div[3]/input",
+                "action": {
+                    "type": "click"
+                }
+            }
+        }
+    }
+}

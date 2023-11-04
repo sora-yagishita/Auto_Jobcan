@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<data>
+  <!-- プロジェクトマッピング -->
+  <project>
+    <jobcanProject name="ジョブカンプロジェクト名1">
+      <dataProject name="CSVプロジェクト名1" />
+    </jobcanProject>
+    <jobcanProject name="ジョブカンプロジェクト名2">
+      <dataProject name="CSVプロジェクト名2" />
+      <dataProject name="CSVプロジェクト名3" />
+    </jobcanProject>
+  </project>
+</data>

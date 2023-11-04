@@ -1,0 +1,18 @@
+{
+    "selenium_driver_path": "./src/driver/chromedriver.exe",
+    "settings":{
+        "wait_timeout": 60000,
+        "jobcan_login_url": "https://id.jobcan.jp/users/sign_in?app_key=wf",
+        "jobcan_login_id": "login_id",
+        "jobcan_login_pass": "login_pass",
+        "jobcan_input_work_url": "https://ssl.jobcan.jp/employee/man-hour-manage",
+        "jobcan_target_templete_name": "",
+        "jobcan_xml_date_formt": "%Y-%m-%d",
+        "jobcan_input_target_date_option": false,
+        "jobcan_input_target_start_date": "2023-01-01",
+        "jobcan_input_target_end_date": "2023-01-05",
+        "jobcan_deviate_ajust_option": true,
+        "jobcan_deviate_ajust_project_name": "【その他】",
+        "jobcan_input_orver_write_option": true
+    }
+}
